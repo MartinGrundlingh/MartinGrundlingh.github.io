@@ -1293,7 +1293,7 @@ a {
 .w3-white,
 .w3-hover-white:hover {
   color: #000 !important;
-  background-color: #fff !important;
+  background-color: rgb(238, 238, 238) !important;
 }
 .w3-black,
 .w3-hover-black:hover {
@@ -1439,7 +1439,7 @@ a {
 .w3-hover-text-grey:hover,
 .w3-text-gray,
 .w3-hover-text-gray:hover {
-  color: #757575 !important;
+  color: #8a8a8a !important;
 }
 .w3-text-light-grey,
 .w3-hover-text-light-grey:hover,
